@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "nombre": "Martin",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "todos los campos son obligatorios",
+      "id": 1
+    },
+    {
+      "nombre": "Marielita",
+      "empresa": "Codigo Con Juan",
+      "email": "mariel@mariel.com",
+      "telefono": "138198313",
+      "notas": "sarasa",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "nala actualizado",
+      "empresa": "sarasa",
+      "email": "martin.herrera.ramirez.2016@gmail.com",
+      "telefono": "12312323",
+      "notas": "no se que le pasa a nala, se porta mal",
+      "id": 6
+    }
+  ]
+}
